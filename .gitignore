@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+langchain_env/
+
+# Django cache and migrations
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+
+# Node.js dependencies
+node_modules/
+
